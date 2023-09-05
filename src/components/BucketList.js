@@ -37,7 +37,6 @@ function BucketList() {
     setBucket(updatedBucket);
   };
 
-    // TODO: Update the bucket state variable
 
   // Function to edit the bucket list item
   const editBucketItem = (itemId, newValue) => {
